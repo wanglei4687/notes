@@ -8,4 +8,4 @@
 **mathmatics explanation**
 functions `f` and `g`, composition f and g:
 
-$ f o g $
+$ f \circ g $
